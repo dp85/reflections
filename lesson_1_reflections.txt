@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Using diff showed all instances that the old html differed from the new html. By using diff,
+I was able to quickly see the lines that changed and spot the error. I've been using diff
+for years, and I can't imagine life without it!
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I've used version control tools in various development environments and they're very 
+helpful. It's effecient because once you have a system set up, it's very easy to check in 
+new changes and view previous edits. It doesn't require manual copying/moving of files.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Manually chosing when to commit allows the programmer to create logical points of 
+separation. It can make browsing changes more powerful and easy to manage. It also
+gives the developer more ownership
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Software is normally composed of many different files that are related and depend on each 
+other.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows a listing of all commits and their comments. you can use git diff to view all
+changes between commits. git log will show the IDs of the commits that can be used in git 
+diff to generate the appropriate diffs to show
+
+How might using version control make you more confident to make changes that could break something?
+
+It allows you to easily go back to a previous state of the code. You don't have to worry
+about permenately breaking everything, because the previous state is just a few clicks away.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use Git for my future projects in the iOS nanodegree. I may also consider using it at work, but we
+already do have TFS setup, so it may be better just to stick with that for now.
