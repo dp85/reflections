@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You create a Git repo in the directory. This initializes and creates all
+of the backend files necessary for Git to work.
