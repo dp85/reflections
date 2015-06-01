@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  There are several reasons to use a remote repository. First, you are backing-up your data and are covered in the
+  event that your disk fails. Secondly, it allows you to work on the same repository on multiple machines. Also,
+  it allows for easy collaboration between multiple people working on the same project.
